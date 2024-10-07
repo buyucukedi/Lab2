@@ -10,6 +10,8 @@ public class Main {
         System.out.println(adder.add(a,b));
         Substractor substractor = new Substractor();
         System.out.println(substractor.substract(a,b));
+        Divider divider = new Divider();
+        System.out.println(divider.divide(a,b));
 
     }
 }
