@@ -12,6 +12,8 @@ public class Main {
         System.out.println(substractor.substract(a,b));
         Divider divider = new Divider();
         System.out.println(divider.divide(a,b));
+        Multipler multipler = new Multipler();
+        System.out.println(multipler.multiply(a,b));
 
     }
 }
